@@ -1,0 +1,20 @@
+{
+    "name": "ArduinoUtilities-Buffer",
+    "version": "0.0.1",
+    "description": "A small library to implement a circular buffer",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kescholm/ArduinoUtilities-Buffer.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Kyle Escholm",
+        "url": "https://www.github.com/kescholm"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {},
+    "frameworks": "arduino",
+    "platforms": [ "espressif32", "amtelavr" ]
+}
